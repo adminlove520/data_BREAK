@@ -65,8 +65,8 @@ let getWindowHeight = () => window.innerHeight;
   </el-table>
   <div class="commit-new-provider">
     {{ $t("commitNewProvider") }}:
-    <a href="https://github.com/adminlove520/data_BREAKissues" target="_blank">
-      <el-icon><Link /></el-icon>https://github.com/adminlove520/data_BREAKissues
+    <a href="https://github.com/adminlove520/data_BREAK/issues" target="_blank">
+      <el-icon><Link /></el-icon>https://github.com/adminlove520/data_BREAK/issues
     </a>
   </div>
 </template>
